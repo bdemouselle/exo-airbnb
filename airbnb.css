@@ -1,4 +1,22 @@
+header {
+    
+}
+
+aside {
+    float: right;
+    display: block;
+}
+
 body {
-    background-color: #ffA07A;
-    font-size: 18px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://a0.muscache.com/4ea/air/r:w775-h518-sfit,e:fjpg-c80/pictures/e4914d86-8b68-4360-b0bc-7588c1b14ad3.jpg);
+}
+
+h1 {
+    font-size: 50px;
+    position: absolute;
+    top: 8%;
+    left: 12%;
+    color: #ffffff;    
 }
